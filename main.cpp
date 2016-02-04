@@ -1,3 +1,4 @@
+// Imports
 #include <iostream>
 #include <string>
 #include <random>
@@ -58,6 +59,7 @@ int main() {
 		cout << "\nGeneral, I would not put these men in this fight" << endl;
 	}
 
+	// Exits when the user hits ENTER
 	system("PAUSE");
 	return 0;
-}
+} // End of Program
